@@ -1,3 +1,5 @@
+# bot link: @t.me/blJk21_bot
+
 import telebot
 
 bot = telebot.TeleBot("5606174334:AAGX9AfjeHzQmkGLmx-vUIkqAsYsSH16KrI")
@@ -17,3 +19,4 @@ bot.infinity_polling()
 
 
 #я Подключился
+# бот хуёт
