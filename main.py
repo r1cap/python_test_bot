@@ -16,7 +16,3 @@ def echo_all(message):
 
 
 bot.infinity_polling()
-
-
-#я Подключился
-# бот хуёт
